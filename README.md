@@ -23,7 +23,8 @@
 - **lv_xiao_round_screen库**：用于屏幕初始化和显示。https://github.com/Seeed-Projects/SeeedStudio_lvgl
 - **Arduino IDE**：用于代码编译和上传。https://github.com/Seeed-Studio/Seeed_Arduino_RoundDisplay
 - **ESP32**：注意是3.0.x版本，在library中下载
-- 在File > Preferences，然后在“Additional Boards Manager URLs”中填写以下 URL：https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+- 在File > Preferences，然后在“Additional Boards Manager URLs”中填写以下 URL：
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 
 您需要将该lv_conf.h文件剪切到 Arduino 库的根目录中。lv_conf.h这里的文件来自Seeed_Arduino_RoundDisplay
 
