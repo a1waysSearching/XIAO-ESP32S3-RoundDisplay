@@ -78,6 +78,9 @@ C:\Users\${UserName}\Documents\Arduino\libraries
    - 通电后，屏幕会显示启动动画。
    - 触摸屏幕启动轮盘旋转，等待结果显示。
 
+5. **Demo**:
+   - http://xhslink.com/a/fTYfcxjUTdh7
+
 ## 未来改进
 ### 更多动画
 ### 更多语言字符
